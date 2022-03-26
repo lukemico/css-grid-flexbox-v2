@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://frontendmasters.com/courses/css-grid-flexbox-v2/">Frontend Masters: CSS Grids and Flexbox in Responsive Web Design v2</a>
-</p>
 
-[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
-
-[Please click here][course] to head to the course website.
 
 # Issues and Pull Requests
 
